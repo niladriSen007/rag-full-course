@@ -1,0 +1,26 @@
+{
+    "company": "Codusa",
+    "employees": [
+        {
+            "id": 1,
+            "name": "Alice Johnson",
+            "department": "Engineering",
+            "role": "Software Engineer",
+            "salary": 95000
+        },
+        {
+            "id": 2,
+            "name": "Bob Smith",
+            "department": "Marketing",
+            "role": "Marketing Manager",
+            "salary": 85000
+        },
+        {
+            "id": 3,
+            "name": "Charlie Brown",
+            "department": "Sales",
+            "role": "Sales Executive",
+            "salary": 75000
+        }
+    ]
+}
