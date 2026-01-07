@@ -46,7 +46,7 @@ try:
     )
     documents = json_loader.load()
     print(f"Loaded {len(documents)} documents from JSON file.")
-    print(documents[0].page_content)  # Print content of the first document
-    print(f"Metadata: {documents[0].metadata}")
+    # print(documents[0].page_content)  # Print content of the first document
+    # print(f"Metadata: {documents[0].metadata}")
 except Exception as e:
     print(f"JSONLoader failed with error: {e}")
